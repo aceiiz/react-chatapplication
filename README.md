@@ -1,5 +1,5 @@
 # react-chatapplication
 
-#server socket.io
+# server socket.io
 
-#client react
+# client react
